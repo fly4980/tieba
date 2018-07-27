@@ -38,5 +38,5 @@ class TiebaSpider:
 
 
 if __name__ == '__main__':
-    tieba_spider = TiebaSpider("redis")
+    tieba_spider = TiebaSpider("python")
     tieba_spider.run()
